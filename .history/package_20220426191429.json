@@ -1,0 +1,11 @@
+{
+  "name": "express-react",
+  "version": "1.0.0",
+  "description": "* Node + express서버와 React연동하는 방법에 대해서 공부를 해보도록 하자.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
